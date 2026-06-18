@@ -12,7 +12,7 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
   <a href="https://github.com/ainasrawat15">
-   <img src="https://komarev.com/ghpvc/?username=ainasrawat15k&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+   <img src="https://komarev.com/ghpvc/?username=ainasrawat15k&label=Profile%20Views&color=764ba2&style=flat-square&base=0" alt="Profile Views"/>
   </a>
   &nbsp;
   <a href="https://github.com/ainasrawat15?tab=repositories">
